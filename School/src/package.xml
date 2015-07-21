@@ -3,6 +3,8 @@
     <fullName>School</fullName>
     <types>
         <members>StudentCustomInfo</members>
+        <members>samplepagefromremote</members>
+        <members>sampletestpage</members>
         <name>ApexPage</name>
     </types>
     <types>
