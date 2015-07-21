@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>School</fullName>
+    <types>
+        <members>StudentCustomInfo</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>School</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>ClassName__c.Section__c</members>
+        <members>Student__c.Address__c</members>
+        <members>Student__c.AdmissionNo__c</members>
+        <members>Student__c.ClassName__c</members>
+        <members>Student__c.DateOfBirth__c</members>
+        <members>Student__c.DateOfJoin__c</members>
+        <members>Student__c.FatherName__c</members>
+        <members>Student__c.Phone__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ClassName__c</members>
+        <members>Student__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ClassName__c</members>
+        <members>Student__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>ClassName__c-ClassName Layout</members>
+        <members>Student__c-Student Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>ClassName__c.All</members>
+        <members>Student__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>31.0</version>
+</Package>
