@@ -6,6 +6,7 @@
         <members>anothersamplepage</members>
         <members>samplepagefromremote</members>
         <members>sampletestpage</members>
+        <members>sarathpage</members>
         <name>ApexPage</name>
     </types>
     <types>
