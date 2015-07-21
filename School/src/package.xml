@@ -3,9 +3,13 @@
     <fullName>School</fullName>
     <types>
         <members>StudentCustomInfo</members>
+<<<<<<< HEAD
         <members>anothersamplepage</members>
         <members>samplepagefromremote</members>
         <members>sampletestpage</members>
+=======
+        <members>samplepagefromremote</members>
+>>>>>>> fd3dc8fe70fb2f4e4de2864c94cde1dc1020a47b
         <name>ApexPage</name>
     </types>
     <types>
