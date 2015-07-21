@@ -1,5 +1,5 @@
 <apex:page standardController="Student__c">
-   
+   this is test page in git
     <apex:form >
         <apex:pageBlock mode="edit">
             <apex:pageMessages />
