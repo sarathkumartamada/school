@@ -3,6 +3,7 @@
     <fullName>School</fullName>
     <types>
         <members>StudentCustomInfo</members>
+        <members>Testmyvf</members>
         <members>anothersamplepage</members>
         <members>samplepagefromremote</members>
         <members>sampletestpage</members>
